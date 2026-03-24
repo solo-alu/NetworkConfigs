@@ -17,10 +17,10 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 |-------|------|--------|
 | Network Basics | 2 | ✅ Done |
 | Subnetting | 3 | ✅ Done |
-| VLANs & Trunking | 3 | 🔄 In Progress |
-| STP | 2 | ⏳ Not Started |
-| EtherChannel | 2 | ⏳ Not Started |
-| OSPF | 3 | ⏳ Not Started |
+| VLANs & Trunking | 3 | ✅ Done |
+| STP | 2 | ✅ Done |
+| EtherChannel | 2 | ✅ Done |
+| OSPF | 3 |   🔄 In Progress |
 | ACLs | 2 | ⏳ Not Started |
 | NAT | 2 | ⏳ Not Started |
 | IPv6 | 2 | ⏳ Not Started |
@@ -48,10 +48,10 @@ ccna-labs/
 
 ## 🎯 Goal
 
-Pass the Cisco CCNA (200-301) exam by [your target date].
+Pass the Cisco CCNA (200-301) exam by 5/20/26.
 
 ---
 
 ## 📬 Contact
 
-[Your Name] — [LinkedIn URL] | [Email if you want]
+Solomon Lee — https://www.linkedin.com/in/solomon-lee-962304192 | solomonlee78@gmail.com
