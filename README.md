@@ -89,7 +89,15 @@ ccna-labs/
 ├── ipv4-addressing/
 ├── subnetting/
 ├── vlans/
+│   ├── README.md
+│   ├── lab01-vlans1/
+│   ├── lab02-vlans2/
+│   └── lab03-vlans3/
 ├── spanning-tree/
+│   ├── README.md
+│   ├── lab01-stp1/
+│   ├── lab02-stp2/
+│   └── lab03-rstp/
 ├── etherchannel/
 ├── routing/
 ├── ospf/
@@ -99,6 +107,10 @@ ccna-labs/
 │   └── lab03-ospf-multiarea/
 ├── first-hop-redundancy/
 ├── ipv6/
+│   ├── README.md
+│   ├── lab01-ipv6-1/
+│   ├── lab02-ipv6-2/
+│   └── lab03-ipv6-3/
 ├── acls/
 ├── nat/
 ├── security/
@@ -110,10 +122,10 @@ ccna-labs/
 
 ## 🎯 Goal
 
-Pass the Cisco CCNA (200-301) exam by [your target date].
+Pass the Cisco CCNA (200-301) exam by May 2026.
 
 ---
 
 ## 📬 Contact
 
-[Your Name] — [LinkedIn URL] | [Email if you want]
+Solomon Lee — [https://www.linkedin.com/in/solomon-lee-962304192/] | solomonlee78@gmail.com
