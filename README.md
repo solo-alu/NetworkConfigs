@@ -43,8 +43,8 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 26 | OSPF Part 1 | ✅ Done |
 | 27 | OSPF Part 2 | ✅ Done |
 | 28 | OSPF Part 3 | ✅ Done |
-| 29 | First Hop Redundancy Protocols | 🔄 In Progress |
-| 30 | TCP and UDP | ⏳ Not Started |
+| 29 | First Hop Redundancy Protocols |✅ Done |
+| 30 | TCP and UDP | 🔄 In Progress |
 | 31 | IPv6 Part 1 | ⏳ Not Started |
 | 32 | IPv6 Part 2 | ⏳ Not Started |
 | 33 | IPv6 Part 3 | ⏳ Not Started |
