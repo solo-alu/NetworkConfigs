@@ -25,7 +25,7 @@ Configure IPv6 static routes between routers and verify end-to-end connectivity 
 
 - [R1-config.txt](./R1-config.txt)
 - [R2-config.txt](./R2-config.txt)
-- [R3-config.txt](./R3-config.txt)
+
 
 ---
 
