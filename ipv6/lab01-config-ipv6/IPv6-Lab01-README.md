@@ -24,8 +24,7 @@ Configure IPv6 addresses on routers and verify connectivity. Practice manual add
 ## ⚙️ Device Configurations
 
 - [R1-config.txt](./R1-config.txt)
-- [R2-config.txt](./R2-config.txt)
-- [R3-config.txt](./R3-config.txt)
+
 
 ---
 
