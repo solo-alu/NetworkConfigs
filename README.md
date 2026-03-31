@@ -46,8 +46,8 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 29 | First Hop Redundancy Protocols |✅ Done |
 | 30 | TCP and UDP | ✅ Done  |
 | 31 | IPv6 Part 1 | ✅ Done |
-| 32 | IPv6 Part 2 | 🔄 In Progress |
-| 33 | IPv6 Part 3 | ⏳ Not Started |
+| 32 | IPv6 Part 2 | ✅ Done |
+| 33 | IPv6 Part 3 | 🔄 In Progress |
 | 34 | Standard ACLs | ⏳ Not Started |
 | 35 | Extended ACLs | ⏳ Not Started |
 | 36 | CDP and LLDP | ⏳ Not Started |
