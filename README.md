@@ -49,8 +49,8 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 32 | IPv6 Part 2 | ✅ Done |
 | 33 | IPv6 Part 3 | ✅ Done |
 | 34 | Standard ACLs | ✅ Done |
-| 35 | Extended ACLs | 🔄 In Progress |
-| 36 | CDP and LLDP | ⏳ Not Started |
+| 35 | Extended ACLs | ✅ Done |
+| 36 | CDP and LLDP | 🔄 In Progress |
 | 37 | NTP | ⏳ Not Started |
 | 38 | DNS | ⏳ Not Started |
 | 39 | DHCP | ⏳ Not Started |
