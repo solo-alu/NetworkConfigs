@@ -52,8 +52,8 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 35 | Extended ACLs | ✅ Done |
 | 36 | CDP and LLDP | ✅ Done |
 | 37 | NTP | ✅ Done |
-| 38 | DNS | 🔄 In Progress |
-| 39 | DHCP | ⏳ Not Started |
+| 38 | DNS | ✅ Done |
+| 39 | DHCP | 🔄 In Progress |
 | 40 | SNMP | ⏳ Not Started |
 | 41 | Syslog | ⏳ Not Started |
 | 42 | SSH | ⏳ Not Started |
