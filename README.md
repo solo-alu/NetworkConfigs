@@ -53,8 +53,8 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 36 | CDP and LLDP | ✅ Done |
 | 37 | NTP | ✅ Done |
 | 38 | DNS | ✅ Done |
-| 39 | DHCP | 🔄 In Progress |
-| 40 | SNMP | ⏳ Not Started |
+| 39 | DHCP | ✅ Done |
+| 40 | SNMP | 🔄 In Progress |
 | 41 | Syslog | ⏳ Not Started |
 | 42 | SSH | ⏳ Not Started |
 | 43 | FTP and TFTP | ⏳ Not Started |
@@ -113,6 +113,7 @@ ccna-labs/
 │   └── lab03-ipv6-3/
 ├── acls/
 ├── DNS/
+├── DHCP/
 ├── nat/
 ├── security/
 ├── wireless/
