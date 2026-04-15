@@ -56,8 +56,8 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 39 | DHCP | ✅ Done |
 | 40 | SNMP | ✅ Done |
 | 41 | Syslog | ✅ Done |
-| 42 | SSH | 🔄 In Progress |
-| 43 | FTP and TFTP | ⏳ Not Started |
+| 42 | SSH | ✅ Done |
+| 43 | FTP and TFTP | 🔄 In Progress |
 | 44 | NAT Static Part 1 | ⏳ Not Started |
 | 45 | NAT Dynamic Part 2 | ⏳ Not Started |
 | 46 | QoS Part 1 (Voice VLAN) | ⏳ Not Started |
