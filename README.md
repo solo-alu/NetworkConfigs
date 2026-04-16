@@ -58,8 +58,8 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 41 | Syslog | ✅ Done |
 | 42 | SSH | ✅ Done |
 | 43 | FTP and TFTP | ✅ Done |
-| 44 | NAT Static Part 1 | 🔄 In Progress |
-| 45 | NAT Dynamic Part 2 | ⏳ Not Started |
+| 44 | NAT Static Part 1 | ✅ Done |
+| 45 | NAT Dynamic Part 2 | 🔄 In Progress |
 | 46 | QoS Part 1 (Voice VLAN) | ⏳ Not Started |
 | 47 | QoS Part 2 | ⏳ Not Started |
 | 48 | Security Fundamentals | ⏳ Not Started |
@@ -89,7 +89,6 @@ ccna-labs/
 ├── ipv4-addressing/
 ├── subnetting/
 ├── vlans/
-│   ├── README.md
 │   ├── lab01-vlans1/
 │   ├── lab02-vlans2/
 │   └── lab03-vlans3/
@@ -101,7 +100,6 @@ ccna-labs/
 ├── etherchannel/
 ├── routing/
 ├── ospf/
-│   ├── README.md
 │   ├── lab01-basic-ospf/
 │   ├── lab02-ospf-cost/
 │   └── lab03-ospf-multiarea/
@@ -116,6 +114,8 @@ ccna-labs/
 ├── DHCP/
 ├── FTP-TFTP/
 ├── nat/
+│   ├── nat-static/
+│   ├── nat-dynamic/
 ├── security/
 ├── wireless/
 └── network-automation/
