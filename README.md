@@ -59,9 +59,9 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 42 | SSH | ✅ Done |
 | 43 | FTP and TFTP | ✅ Done |
 | 44 | NAT Static Part 1 | ✅ Done |
-| 45 | NAT Dynamic Part 2 | 🔄 In Progress |
-| 46 | QoS Part 1 (Voice VLAN) | ⏳ Not Started |
-| 47 | QoS Part 2 | ⏳ Not Started |
+| 45 | NAT Dynamic Part 2 | ✅ Done |
+| 46 | QoS Part 1 (Voice VLAN) | ✅ Done |
+| 47 | QoS Part 2 | 🔄 In Progress |
 | 48 | Security Fundamentals | ⏳ Not Started |
 | 49 | Port Security | ⏳ Not Started |
 | 50 | DHCP Snooping | ⏳ Not Started |
