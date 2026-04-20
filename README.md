@@ -61,11 +61,11 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 44 | NAT Static Part 1 | ✅ Done |
 | 45 | NAT Dynamic Part 2 | ✅ Done |
 | 46 | QoS Part 1 (Voice VLAN) | ✅ Done |
-| 47 | QoS Part 2 | 🔄 In Progress |
-| 48 | Security Fundamentals | ⏳ Not Started |
-| 49 | Port Security | ⏳ Not Started |
-| 50 | DHCP Snooping | ⏳ Not Started |
-| 51 | Dynamic ARP Inspection | ⏳ Not Started |
+| 47 | QoS Part 2 | ✅ Done |
+| 48 | Security Fundamentals | ✅ Done |
+| 49 | Port Security | ✅ Done |
+| 50 | DHCP Snooping | ✅ Done |
+| 51 | Dynamic ARP Inspection |🔄 In Progress |
 | 52 | LAN Architectures | ⏳ Not Started |
 | 53 | WAN Architectures | ⏳ Not Started |
 | 54 | Virtualization and Cloud | ⏳ Not Started |
@@ -117,6 +117,8 @@ ccna-labs/
 │   ├── nat-static/
 │   ├── nat-dynamic/
 ├── security/
+│   ├── port-security/
+│   ├── dhcp-snooping/
 ├── wireless/
 └── network-automation/
 ```
