@@ -66,8 +66,8 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 49 | Port Security | ✅ Done |
 | 50 | DHCP Snooping | ✅ Done |
 | 51 | Dynamic ARP Inspection |✅ Done |
-| 52 | LAN Architectures | 🔄 In Progress |
-| 53 | WAN Architectures | ⏳ Not Started |
+| 52 | LAN Architectures | |✅ Done |
+| 53 | WAN Architectures | 🔄 In Progress  |
 | 54 | Virtualization and Cloud | ⏳ Not Started |
 | 55 | Wireless Fundamentals | ⏳ Not Started |
 | 56 | Wireless Architectures | ⏳ Not Started |
