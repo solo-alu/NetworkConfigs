@@ -71,8 +71,8 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 54 | Virtualization and Cloud | ✅ Done |
 | 55 | Wireless Fundamentals | ✅ Done |
 | 56 | Wireless Architectures | ✅ Done |
-| 57 | Wireless Security | 🔄 In Progress |
-| 58 | Wireless Configuration | ⏳ Not Started |
+| 57 | Wireless Security | ✅ Done |
+| 58 | Wireless Configuration | 🔄 In Progress |
 | 59 | Introduction to Network Automation | ⏳ Not Started |
 | 60 | JSON, XML, and YAML | ⏳ Not Started |
 | 61 | REST APIs | ⏳ Not Started |
