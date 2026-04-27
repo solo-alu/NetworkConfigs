@@ -65,14 +65,14 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 48 | Security Fundamentals | ✅ Done |
 | 49 | Port Security | ✅ Done |
 | 50 | DHCP Snooping | ✅ Done |
-| 51 | Dynamic ARP Inspection |🔄 In Progress |
-| 52 | LAN Architectures | ⏳ Not Started |
-| 53 | WAN Architectures | ⏳ Not Started |
-| 54 | Virtualization and Cloud | ⏳ Not Started |
-| 55 | Wireless Fundamentals | ⏳ Not Started |
-| 56 | Wireless Architectures | ⏳ Not Started |
-| 57 | Wireless Security | ⏳ Not Started |
-| 58 | Wireless Configuration | ⏳ Not Started |
+| 51 | Dynamic ARP Inspection |✅ Done |
+| 52 | LAN Architectures | ✅ Done |
+| 53 | WAN Architectures | ✅ Done  |
+| 54 | Virtualization and Cloud | ✅ Done |
+| 55 | Wireless Fundamentals | ✅ Done |
+| 56 | Wireless Architectures | ✅ Done |
+| 57 | Wireless Security | ✅ Done |
+| 58 | Wireless Configuration | 🔄 In Progress |
 | 59 | Introduction to Network Automation | ⏳ Not Started |
 | 60 | JSON, XML, and YAML | ⏳ Not Started |
 | 61 | REST APIs | ⏳ Not Started |
