@@ -73,8 +73,8 @@ Working toward my Cisco CCNA certification using [Jeremy's IT Lab](https://www.y
 | 56 | Wireless Architectures | ✅ Done |
 | 57 | Wireless Security | ✅ Done |
 | 58 | Wireless Configuration |✅ Done |
-| 59 | Introduction to Network Automation | 🔄 In Progress |
-| 60 | JSON, XML, and YAML | ⏳ Not Started |
+| 59 | Introduction to Network Automation | ✅ Done |
+| 60 | JSON, XML, and YAML |  🔄 In Progress |
 | 61 | REST APIs | ⏳ Not Started |
 | 62 | Software Defined Networking | ⏳ Not Started |
 | 63 | Ansible, Puppet, and Chef | ⏳ Not Started |
