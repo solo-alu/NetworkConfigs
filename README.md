@@ -129,6 +129,8 @@ ccna-labs/
 
 Pass the Cisco CCNA (200-301) exam by May 2026.
 
+Passed May 29, 2026
+
 ---
 
 ## 📬 Contact
